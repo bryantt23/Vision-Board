@@ -1,0 +1,58 @@
+body {
+    background-color: #d0e4fe;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+
+div {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    background-color: #008800;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#003500), to(#008800));
+    background-image: -webkit-linear-gradient(left, #003500, #008800); 
+    background-image:    -moz-linear-gradient(left, #003500, #008800);
+    background-image:     -ms-linear-gradient(left, #003500, #008800);
+    background-image:      -o-linear-gradient(left, #003500, #008800);
+}
+
+
+/*
+div{
+
+	height: 286px;
+	width: 214px;
+
+	background-image: url("fencing.jpg") ;	
+    repeat: no-repeat;
+    
+    
+}
+*/
+
+
+
+
+
+/*
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: auto;
+}
+
+img {
+    position: absolute;
+}
+*/
+}
