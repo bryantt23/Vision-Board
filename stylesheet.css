@@ -13,7 +13,7 @@ p {
 }
 
 
-div {
+#circle {
     height: 100px;
     width: 100px;
     border-radius: 100%;
@@ -26,6 +26,14 @@ div {
 }
 
 
+#fencing{
+
+	height: 286px;
+	width: 214px;
+
+	background-image: url("fencing.jpg") ;	
+    repeat: no-repeat;    
+}
 /*
 div{
 
