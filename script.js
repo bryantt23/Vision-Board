@@ -1,6 +1,7 @@
-$(document).ready(function() {
 
-    $('div').click(function() {
-        $(this).effect('slide');
-    });
+$(document).ready(function(){
+$('.pull-me').click(function(){ 
+$('.panel').slideToggle('slow');
+
+});
 });
