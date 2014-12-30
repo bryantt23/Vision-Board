@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 
 //     i think i got this to work
-    $('img').hide();
+    // $('img').hide();
     
     // $('img').animate({ top: '+=100px' }, 1000 );
 
